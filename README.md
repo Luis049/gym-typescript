@@ -2,17 +2,8 @@
 
 AI Summarizer is a web page that allows you to summarize English articles using the provided URL. It is built with React, TypeScript, and Vite, and hosted on Netlify. The main functionality is achieved by leveraging the API provided by [RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer).
 
-## Características
-- Creada con React
-- Utiliza TypeScript
-- Construida con Vite
-- Alojada en Netlify
-- Se trata de una página web
-- El contenido está en inglés
-- Resumen de artículos en inglés mediante la URL proporcionada
-
 ## Tecnologías principales
-- ![React](https://React.png) React
+- ![React](https://res.cloudinary.com/dzwyvvrtk/image/upload/v1686950743/Icons/React_vhnxrd.png) React  
 - TypeScript
 - Vite
 - Netlify
