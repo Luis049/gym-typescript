@@ -10,9 +10,9 @@ AI Summarizer is a web page that allows you to summarize English articles using 
 
 ## Capturas de pantalla
 Aquí se muestran las capturas de pantalla de la página web en la versión de escritorio:
-![Desktop1](./src/assets/screenshots/Desktop1.png)
-![Desktop2](./src/assets/screenshots/Desktop1.png)
-![Desktop3](./src/assets/screenshots/Desktop1.png)
+![Desktop1](./src/assets/screenshots/Desktop1.PNG)
+![Desktop2](./src/assets/screenshots/Desktop1.PNG)
+![Desktop3](./src/assets/screenshots/Desktop1.PNG)
 
 ## Créditos
 El proyecto fue creado a partir de un video tutorial de JavaScript Mastery titulado "Build and Deploy Your Own GPT AI Website with React and Turn it Into a SaaS Business ($$$)". Puedes encontrar el video tutorial en [este enlace](https://www.youtube.com/watch?v=vpvtZZi5ZWk).
