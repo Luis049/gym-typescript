@@ -16,9 +16,9 @@ Website con React y TypeScript utilizando Tailwind CSS. Una página web moderna 
 
 
 Aquí se muestran las capturas de pantalla de la página web en la versión de escritorio:
-![Desktop1](./src/assets/screenshots/Desktop1.PNG)
-![Desktop2](./src/assets/screenshots/Desktop2.PNG)
-![Desktop3](./src/assets/screenshots/Desktop3.PNG)
+![Desktop1](./src/assets/screenshots/Desktop1.PNG)  
+![Desktop2](./src/assets/screenshots/Desktop2.PNG)  
+![Desktop3](./src/assets/screenshots/Desktop3.PNG)  
 
 
 ## Créditos
