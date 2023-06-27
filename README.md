@@ -5,6 +5,7 @@ Website con React y TypeScript utilizando Tailwind CSS. Una página web moderna 
 
 
 ## Tecnologías principales
+
 ![React](https://res.cloudinary.com/dzwyvvrtk/image/upload/v1686950743/Icons/React_vhnxrd.png) React  
 ![TypeScript](https://res.cloudinary.com/dzwyvvrtk/image/upload/v1687904946/Typescript_cxfvxr.png) TypeScript  
 ![Vite](https://res.cloudinary.com/dzwyvvrtk/image/upload/v1687904946/Vite_in7622.png) Vite  
