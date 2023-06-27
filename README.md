@@ -16,7 +16,7 @@ Aquí se muestran las capturas de pantalla de la página web en la versión de e
 
 
 ## Créditos
-El proyecto fue creado a partir de un video tutorial de JavaScript Mastery titulado "Build a Complete Typescript React Fitness Application for Beginners | Responsive($$$)". Puedes encontrar el video tutorial en [este enlace](https://www.youtube.com/watch?v=I2NNxr3WPDo).
+El proyecto fue creado a partir de un video tutorial de JavaScript Mastery titulado "Build a Complete Typescript React Fitness Application for Beginners | Responsive". Puedes encontrar el video tutorial en [este enlace](https://www.youtube.com/watch?v=I2NNxr3WPDo).
 
 ## Enlace
 Puedes acceder a la página web en el siguiente enlace:
