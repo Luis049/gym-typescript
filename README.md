@@ -1,6 +1,8 @@
-# AI Summarizer
+# Gym-TypeScript
 
-AI Summarizer is a web page that allows you to summarize English articles using the provided URL. It is built with React, TypeScript, and Vite, and hosted on Netlify. The main functionality is achieved by leveraging the API provided by [RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer).
+Cree una aplicación completa de TypeScript React Fitness para principiantes
+
+
 
 ## Tecnologías principales
 ![React](https://res.cloudinary.com/dzwyvvrtk/image/upload/v1686950743/Icons/React_vhnxrd.png) React  
@@ -10,13 +12,12 @@ AI Summarizer is a web page that allows you to summarize English articles using 
 
 ## Capturas de pantalla
 Aquí se muestran las capturas de pantalla de la página web en la versión de escritorio:
-![Desktop1](./src/assets/screenshots/Desktop1.PNG)
-![Desktop2](./src/assets/screenshots/Desktop1.PNG)
-![Desktop3](./src/assets/screenshots/Desktop1.PNG)
+![Gym1](./src/assets/screenshots/Gym1.PNG)
+
 
 ## Créditos
-El proyecto fue creado a partir de un video tutorial de JavaScript Mastery titulado "Build and Deploy Your Own GPT AI Website with React and Turn it Into a SaaS Business ($$$)". Puedes encontrar el video tutorial en [este enlace](https://www.youtube.com/watch?v=vpvtZZi5ZWk).
+El proyecto fue creado a partir de un video tutorial de JavaScript Mastery titulado "Build a Complete Typescript React Fitness Application for Beginners | Responsive($$$)". Puedes encontrar el video tutorial en [este enlace](https://www.youtube.com/watch?v=I2NNxr3WPDo).
 
 ## Enlace
 Puedes acceder a la página web en el siguiente enlace:
-[URL del sitio](https://ai-summarizer-yha.netlify.app/)
+[URL del sitio](https://evogym-typescript.netlify.app)
