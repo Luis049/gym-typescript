@@ -12,7 +12,7 @@ Cree una aplicación completa de TypeScript React Fitness para principiantes
 
 ## Capturas de pantalla
 Aquí se muestran las capturas de pantalla de la página web en la versión de escritorio:
-![Gym1](./src/assets/screenshots/Gym1.PNG)
+![Gym1.PNG](./src/assets/screenshots/Gym1.PNG)
 
 
 ## Créditos
